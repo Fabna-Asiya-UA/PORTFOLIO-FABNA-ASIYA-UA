@@ -152,8 +152,8 @@ export default function Hero() {
             </Link>
 
             <a
-              href="/Fabna-Asiya-Resume.pdf"
-              download="Fabna-Asiya-Resume.pdf"
+              href="/FABNA ASIYA UA -FULLSTACK DEVELOPER.pdf"
+              download="FABNA ASIYA UA -FULLSTACK DEVELOPER.pdf"
               className="inline-flex min-h-12 items-center justify-center gap-2 rounded-xl border border-violet-400/40 px-5 py-3 text-sm font-medium text-violet-200 transition duration-300 hover:-translate-y-1 hover:bg-violet-400/10"
             >
               <Download size={17} />
